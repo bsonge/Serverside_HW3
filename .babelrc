@@ -1,0 +1,6 @@
+"babel":{
+    "plugins": [
+    "babel-plugin-transform-decorators-legacy",
+    "babel-plugin-transform-decorators"
+    ]
+}
